@@ -26,7 +26,7 @@ Crossing Points:
 Instances of crossings between short-term and long-term moving averages serve as potential indicators of trend reversals or momentum shifts in gold prices.
 
 
-**Time Series Analysis**
+**Time Series Analysis:-**
 
 ![image](https://github.com/Rkaayush04/Gold-Analysis-ML-Regression-Time-Series-Analysis/assets/152067559/466a23bc-47e7-4f2b-8be4-817efc759da6)
 
@@ -37,14 +37,14 @@ Instances of crossings between short-term and long-term moving averages serve as
 ![image](https://github.com/Rkaayush04/Gold-Analysis-ML-Regression-Time-Series-Analysis/assets/152067559/e135dba3-ecf4-4a15-a3de-d5d162bf8d4e)
 
 
-**Regression Model**
+**Regression Model:-**
 
 ![image](https://github.com/Rkaayush04/Gold-Analysis-ML-Regression-Time-Series-Analysis/assets/152067559/2a1b357f-7aba-4cb5-baae-9c38efcff137)
 
-**Equity Curve**
+**Equity Curve:-**
 
 ![image](https://github.com/Rkaayush04/Gold-Analysis-ML-Regression-Time-Series-Analysis/assets/152067559/02cd53ee-29ad-400c-958b-254972bd5aa0)
 
 
-**Conclusion:**
+**Conclusion:-**
 Statistical analysis of gold price data yields invaluable insights into its fundamental characteristics, encompassing central tendency, volatility, and trend dynamics. Such comprehension is indispensable for informed decision-making in investment and trading strategies. Continuous monitoring and analysis of gold price data employing statistical techniques are imperative for discerning patterns, trends, and potential opportunities in the gold market.
